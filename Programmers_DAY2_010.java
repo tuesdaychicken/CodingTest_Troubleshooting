@@ -1,6 +1,6 @@
 package CodingTest_Troubleshooting;
 
-import java.util.Arrays;
+
 
 /*
 문제설명

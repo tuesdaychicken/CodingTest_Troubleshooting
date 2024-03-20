@@ -35,7 +35,11 @@ public class Programmers_DAY2_009 {
         }else{
             System.out.println(n + " is odd");
              }
+
+        sc.close();
     }
+
+    
 }
 
 // 접근 1. 
