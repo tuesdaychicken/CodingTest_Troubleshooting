@@ -28,3 +28,8 @@ public class Programmers_DAY0_000 {
     다른 사람 풀이(2)
         
 */
+
+/*  나의 잘못된 접근
+    실수 1.
+        
+*/
