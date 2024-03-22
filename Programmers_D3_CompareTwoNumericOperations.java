@@ -28,7 +28,7 @@ package CodingTest_Troubleshooting;
     둘 중 더 큰 값은 912 이므로 912를 return 합니다.
  */
 
-public class Programmers_DAY3_015 {
+public class Programmers_D3_CompareTwoNumericOperations {
     public int solution(int a, int b) {
         return Math.max(Integer.parseInt(a + "" + b), 2*a*b);
     }

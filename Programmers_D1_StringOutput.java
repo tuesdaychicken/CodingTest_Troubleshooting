@@ -17,7 +17,7 @@ import java.util.Scanner;
     HelloWorld!
  */
 
-public class Programmers_DAY1_001 {
+public class Programmers_D1_StringOutput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();

@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
     
  */
 
-public class Programmers_DAY3_012 {
+public class Programmers_D3_ReturnListOfCharactersAsString {
     public String solution(String[] arr) {
         
         return Arrays.stream(arr).collect(Collectors.joining());

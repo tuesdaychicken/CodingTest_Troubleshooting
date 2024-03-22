@@ -30,7 +30,7 @@ package CodingTest_Troubleshooting;
     둘 중 더 큰 값은 898 이므로 898을 return 합니다.
  */
 
-public class Programmers_DAY3_014 {
+public class Programmers_D3_MergeLarger {
     public int solution(int a, int b) {
 
         int answer1 = Integer.valueOf(""+a+b);

@@ -15,7 +15,7 @@ package CodingTest_Troubleshooting;
     
  */
 
-public class Programmers_DAY0_000 {
+public class Programmers_D0_Example {
     
 }
 

@@ -9,7 +9,7 @@ package CodingTest_Troubleshooting;
     !@#$%^&*(\'"<>?:;
  */
 
-public class Programmers_DAY1_005 {
+public class Programmers_D1_SpecialCharacterOutput {
     public static void main(String[] args) {
         System.out.println("!@#$%^&*(\\'\"<>?:;");
     }

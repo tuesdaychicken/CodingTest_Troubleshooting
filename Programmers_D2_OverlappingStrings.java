@@ -31,7 +31,7 @@ import java.util.stream.Collectors;
     바꾼 "ProgrammerS123"를 return 합니다.
  */
 
-public class Programmers_DAY2_010 {
+public class Programmers_D2_OverlappingStrings {
 
     public static void main(String[] args) {
         //TEST를 위해 추가한 main

@@ -23,7 +23,7 @@ import java.util.Scanner;
     e
  */
 
-public class Programmers_DAY2_008 {
+public class Programmers_D2_VerticalStringOutput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();

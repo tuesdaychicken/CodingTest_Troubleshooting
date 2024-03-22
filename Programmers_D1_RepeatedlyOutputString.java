@@ -19,7 +19,7 @@ import java.util.Scanner;
     stringstringstringstringstring
  */
 
-public class Programmers_DAY1_003 {
+public class Programmers_D1_RepeatedlyOutputString {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();

@@ -26,7 +26,7 @@ package CodingTest_Troubleshooting;
     
  */
 
-public class Programmers_DAY3_013 {
+public class Programmers_D3_MultiplyStrings {
 
     public static String solution(String my_string, int k) {
         return my_string.repeat(k);

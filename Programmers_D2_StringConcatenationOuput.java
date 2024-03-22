@@ -24,7 +24,7 @@ import java.util.Scanner;
     HelloWorld!
  */
 
-public class Programmers_DAY2_007 {
+public class Programmers_D2_StringConcatenationOuput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();

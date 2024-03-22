@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
     "aaaaa"     "bbbbb"	    "ababababab"
  */
 
-public class Programmers_DAY3_011 {
+public class Programmers_D3_ShufflingStrings {
 
     public static void main(String[] args) {
             solution("aaaaa", "bbbbb");

@@ -19,7 +19,7 @@ import java.util.Scanner;
     4 + 5 = 9
  */
 
-public class Programmers_DAY2_006 {
+public class Programmers_D2_AdditiveExpressionOutput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

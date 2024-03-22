@@ -18,7 +18,7 @@ import java.util.Scanner;
     b = 5
  */
 
-public class Programmers_DAY1_002 {
+public class Programmers_D1_AandBOutput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
