@@ -13,6 +13,13 @@ package CodingTest_Troubleshooting;
    
 출력 #1
     
+입출력 예
+
+입출력 예 설명
+    입출력 예 #1
+
+    입출력 예 #2
+    
  */
 
 public class Programmers_D0_Example {
