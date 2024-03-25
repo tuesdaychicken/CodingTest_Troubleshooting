@@ -34,13 +34,13 @@ public class Programmers_D4_ConditionString {
     public int solution(String ineq, String eq, int n, int m) {
         int answer = 0;
         if (ineq.equals("<") && eq.equals("!") ) {
-            
+            return ;
         }else if (ineq.equals("<") && eq.equals("=") ) {
-            
+            return ;
         }else if (ineq.equals(">") && eq.equals("!") ) {
-            
+            return ;
         }else if (ineq.equals("<") && eq.equals("=") ) {
-            
+            return ;
         }
 
         
